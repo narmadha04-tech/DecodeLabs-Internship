@@ -1,3 +1,3 @@
 # DecodeLabs-Internship
 
-## Repository for DecodeLabs Interniship Tasks
+## Repository for DecodeLabs Internship Tasks
